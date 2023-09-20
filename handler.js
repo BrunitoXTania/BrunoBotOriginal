@@ -1168,7 +1168,7 @@ let user = global.db.data.users[m.sender]
 if (!['owner-unbanchat.js'].includes(name) && chat && chat.isBanned && !isROwner) return // Except this
 if (name != 'owner-unbanchat.js' && name != 'owner-exec.js' && name != 'owner-exec2.js' && name != 'tool-delete.js' && chat?.isBanned && !isROwner) return 
 if (m.text && user.banned && !isROwner) {
-m.reply('Has sido baneado.')
+m.reply('𝙃𝘼𝙎 𝙎𝙄𝘿𝙊 𝘽𝘼𝙉𝙀𝘼𝘿𝙊')
 return
 }
 }
@@ -1224,7 +1224,7 @@ return
                     m.reply('Exp limit') // Hehehe
                 else               
                 if (!isPrems && plugin.money && global.db.data.users[m.sender].money < plugin.money * 1) {
-                    this.reply(m.chat, `🐈 𝙉𝙊 𝙏𝙄𝙀𝙉𝙀 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎`, m)
+                    this.reply(m.chat, `🐈 𝙉𝙊 𝙏𝙄𝙀𝙉𝙀 𝘽𝙍𝙐𝙉𝙊𝘾𝙊𝙄𝙉𝙎 `, m)
                     continue     
 		}
 			
@@ -1294,7 +1294,7 @@ return
                         m.reply(+m.limit + lenguajeGB.smsCont8())
                 }
                  if (m.money)
-                        m.reply(+m.money + ' 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎 🐱 𝙐𝙎𝘼𝘿𝙊(𝙎)')
+                        m.reply(+m.money + ' 𝘽𝙍𝙐𝙉𝙊𝘾𝙊𝙄𝙉𝙎 🐱 𝙐𝙎𝘼𝘿𝙊(𝙎)')
               
                 break
             }
