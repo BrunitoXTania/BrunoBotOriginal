@@ -1,5 +1,5 @@
 { 
-"name": "GataBot-MD",
+"name": "BrunoBot",
 "version": "1.4.9", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -17,7 +17,7 @@
     
 "homepage": "https://github.com/GataNina-Li/GataBot-MD",
 "author": {
-"name": "GataNina-Li" }, 
+"name": "Bruno" }, 
     
 "repository": {
 "type": "git",
