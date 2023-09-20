@@ -11,13 +11,19 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js";
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51923948881", '𝙂𝘽 | 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 💖🐈', true],
+["51923948881", '𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 💖🐈', true],
 ["51923948881", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
+["51923948881"], 
+["51923948881"], 
+["51923948881"],
+["51923948881"], 
+["51923948881"]]
+
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [];
-global.prems = ["528451003894"];
+global.prems = ["51923948881"];
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"];
    
@@ -102,8 +108,8 @@ global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈";
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨";
+global.packname = "𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 🐈";
+global.author = "𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -165,8 +171,8 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨";
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿";
+global.wm = "𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 : 𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭";
+global.igfg = "𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭";
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*";
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*";
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*";
